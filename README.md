@@ -3,4 +3,4 @@ My solution in assembly x64 using AT&T syntax for a simple question called "Stai
 
 The question is as follows:
 
-<img src='https://raw.githubusercontent.com/Dolyetyus/Staircase-In-Assembly/main/question.png' width='250'>
+<img src='https://raw.githubusercontent.com/Dolyetyus/Staircase-In-Assembly/main/question.png' width='400'>
