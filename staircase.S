@@ -14,7 +14,7 @@ main:
     leaq    prompt(%rip), %rdi
     call    printf
 
-	subq    $16, %rsp
+    subq    $16, %rsp
     leaq    -8(%rbp), %rsi
     leaq    formatstr(%rip), %rdi
     call    scanf
